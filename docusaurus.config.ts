@@ -89,14 +89,14 @@ const config: Config = {
           position: 'left',
           label: 'About Me',
         },
-        {to: '/porfolio', label: 'Porfolio', position: 'left'},
-        {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Notes',
-        },
+        // {to: '/porfolio', label: 'Porfolio', position: 'left'},
+        // {to: '/blog', label: 'Blog', position: 'left'},
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'tutorialSidebar',
+        //   position: 'left',
+        //   label: 'Notes',
+        // },
         {
           href: 'https://github.com/ishitoralin',
           label: 'GitHub',
