@@ -91,12 +91,12 @@ const config: Config = {
         },
         // {to: '/porfolio', label: 'Porfolio', position: 'left'},
         // {to: '/blog', label: 'Blog', position: 'left'},
-        // {
-        //   type: 'docSidebar',
-        //   sidebarId: 'tutorialSidebar',
-        //   position: 'left',
-        //   label: 'Notes',
-        // },
+        {
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+          label: 'Notes',
+        },
         {
           href: 'https://github.com/ishitoralin',
           label: 'GitHub',
