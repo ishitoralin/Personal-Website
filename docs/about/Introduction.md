@@ -13,8 +13,7 @@ sidebar_position: 1
 
 - Experienced with:
   - Linux systems.
-  - Develope new projects or maintain old projects in both Windows and Linux.
-  - Docker and k8s function
+  - Docker and k8s
 ---
 ## Frontend
 
@@ -37,12 +36,6 @@ sidebar_position: 1
 - JSX syntax
 - React state management: Redux
 - Data transmission including props/callback.
-
-### 4. Pack
-
-- Vue-Cli
-- Webpack
-- Vite
 ---
 ## Backend：
 
@@ -55,14 +48,18 @@ sidebar_position: 1
 - Server-Sends Events (SSE)
 - fs system
 
-### 2. golang (gin)
+### 2. Golang (gin)
 
 - fmt
 - os
 - Goroutine
 - sync.Mutex
 
-### 3. Docker & k8s
+### 3. Python
+ - fastapi
+ - flask
+
+### 4. Docker & k8s
 
 - Dockerfile
 - Docker compose
@@ -71,7 +68,7 @@ sidebar_position: 1
 
 ## 經歷
 
-- **2024~2025** 現職 新漢股份有限公司 前端工程師
+- **2024~    -** 現職 新漢股份有限公司 前端工程師
   - 工作內容：工業 4.0 解決方案，包含雲端伺服器架設、邊緣運算機器軟體開發。
 - **2023~2023** 進修 資展國際前端工程師養成班
 - **2020~2022** 就職 衛生福利部食品藥物管理署

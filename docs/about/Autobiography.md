@@ -12,7 +12,7 @@ sidebar_position: 3
 
 隨後，我在 2019 年離職，前往日本進修一年，並於 2017 年取得 N3 證書(現已取得N1證書)。2020 年疫情影響，我回到台灣，開始在衛生福利部食品藥物管理署擔任副審查員。在這兩年半的職務中，我負責測試報告的審核，尤其對醫療電子產品的效能、安全性、軟體進行嚴謹的審查，並核發相應的許可證。這段經驗讓我深刻認識到醫療設備日益走向 AI 化的趨勢。
 
-觀察到科技的迅速進步，我決定跳脫傳統醫材相關領域，轉而追求可以接觸 AI 技術的職業，並以前端工程師作為踏出的第一步。於資展國際的前端網頁開發班進修，我與團隊成功以 React、Node.js 及 MySQL 等技術合作開發出一個複合式健身房電商網站。結業後於新漢股份有限公司軟體開發部門擔任前端工程師一職，並開始著手邊緣運算機台的產品開發。訓練期過後開始單獨或與他人合作開發專案，內容包含使用 Vue 進行軟體 GUI 開發，使用 Azure 及 Node.js 開發雲端伺服器，並開始接觸 golang 及 docker 進行後端伺服器開發，讓自己的技術漸漸地往全端工程師邁進。
+觀察到科技的迅速進步，我決定跳脫傳統醫材相關領域，轉而追求可以接觸 AI 技術的職業，並以前端工程師作為踏出的第一步。於資展國際的前端網頁開發班進修，我與團隊成功以 React、Node.js 及 MySQL 等技術合作開發出一個複合式健身房電商網站。結業後於新漢股份有限公司軟體開發部門擔任前端工程師一職，並開始著手邊緣運算機台的產品開發。訓練期過後開始單獨或與他人合作開發專案，內容包含使用 Vue 進行軟體 GUI 開發，使用 Azure 及 Node.js 開發雲端伺服器，並開始接觸 golang 、 docker及K8s 進行後端伺服器開發，讓自己的技術漸漸地往全端工程師邁進。
 
 經歷如此多元的領域，我相信我的多方面技能和豐富經驗將成為未來挑戰的寶貴資產。
 
@@ -27,6 +27,6 @@ After graduation, I worked as a research assistant at the Institute of Photonics
 
 Subsequently, I resigned in 2019 to pursue further studies in Japan for one year, and I obtained the JLPT N3 certification in 2017(Own N1 certification now). Due to the COVID-19 pandemic in 2020, I returned to Taiwan and started working as an assistant reviewer at the Taiwan Food and Drug Administration. During my two and a half years in this role, I was responsible for reviewing testing reports, rigorously examining the performance, safety, and software of medical electronic products, and issuing the corresponding certifications. This experience gave me a deep understanding of the increasing trend toward AI integration in medical devices.
 
-Observing the rapid advancement of technology, I decided to move beyond traditional medical device fields and pursue a career that would allow me to engage with AI technologies, taking frontend engineering as my first step. During my studies at CSDN International, I collaborated with a team to successfully develop a comprehensive fitness e-commerce website using React, Node.js, and MySQL. After graduation, I joined Ishitoralin Co., Ltd. as a frontend engineer and began developing edge computing device products. After the training period, I started independently and collaboratively working on projects involving Vue-based software GUI development, Azure and Node.js cloud server development, and began exploring backend development with Golang and Docker, gradually advancing toward a full-stack engineer role.
+Observing the rapid advancement of technology, I decided to move beyond traditional medical device fields and pursue a career that would allow me to engage with AI technologies, taking frontend engineering as my first step. During my studies at CSDN International, I collaborated with a team to successfully develop a comprehensive fitness e-commerce website using React, Node.js, and MySQL. After graduation, I joined Ishitoralin Co., Ltd. as a frontend engineer and began developing edge computing device products. After the training period, I started independently and collaboratively working on projects involving Vue-based software GUI development, Azure and Node.js cloud server development, and began exploring backend development with Golang, Docker and K8s, gradually advancing toward a full-stack engineer role.
 
 With such a diverse range of experiences, I believe my multifaceted skills and rich background will be invaluable assets for future challenges.

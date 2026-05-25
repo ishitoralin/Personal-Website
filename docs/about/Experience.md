@@ -4,24 +4,24 @@ sidebar_position: 2
 
 ## 軟體開發
 
-### 1. 原有產品新增 CIS benchmark 功能
-   - Vue router 建立 CIS 檢驗流程
-   - 模組化 Axios，減少一半呼叫 API 相關程式碼，增加可讀性
-   - Vue 輸出 html report
-   - 使用 Chart.js 實現統計資料視覺化圖像化
+### 1. 大型專案 - AI企業大腦
+重建新漢集團資訊系統，導入AI功能
+   - 系統架構規劃，包含前台UI/UX設計及後台API、資料庫設計
+   - 規劃K8x部署
+   - 使用harbor架設公司產品映像檔放置處
+   - 使用Ceph建立高可用架構(HA)
 
-### 2. 產品新增線上更新功能(OTA)
-   - 使用 Azure 建立 Web service，提供檔案比對、下載、上傳
-   - API 功能分離，官方使用者使用 JWT 控管上傳流程，邊緣運算機台使用 hash 控管比對、下載功能。
-   - 修改產品打包流程 Control file，由 dpkg 檔改為加密 gpg 檔
-   - 修改所有產品 Service file ExecStart 指向共同 script，由 script 控管產品啟動、版本切換邏輯，任何產品維護時僅需針對共同 script 修改，減少人力耗損。
-   - 使用 Vue 建立單頁更新頁面，使用者使用左鍵即可完成更新
+### 2. 中型專案 - 邊緣運算AI (AI-X、EdgeGPT)
+   - 開發邊緣運算AI前台(30%)及後台API(70%)
+   - 整合CIS benchmark
+   - 獨立開發並導入產品線上更新功能(OTA)
 
-### 3. Docker GUI 設計開發
-   - 使用 node.js 及 dockerode 建立 docker remote server
-   - 使用 vue3(Composition API)及 vue cli 開發 docker GUI 介面
-### 4. AD server 架設及串接
-   - 使用 python fastapi 開發 AD 帳號驗證功能。
+### 3. 中型專案 - AI代理
+   - 現有產品整合Dify及Openclaw增強AI代理功能
+
+### 4. 小型專案 - Docker控制介面
+   - 使用Dockerode開發產品API
+   - UI/UX設計(100%)及前台功能開發(70%)
 
 ## 網站開發
 
